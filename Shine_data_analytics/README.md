@@ -1,4 +1,4 @@
-ODW Data Analytics Demo
+Shine Analytics Demo
 =======================
 
 This demo project simulates an ETL -> Data Warehouse -> Dashboard flow that matches
