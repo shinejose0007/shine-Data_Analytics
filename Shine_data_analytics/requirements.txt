@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+streamlit
+plotly
+statsmodels
+openpyxl
+xlsxwriter
+kaleido
